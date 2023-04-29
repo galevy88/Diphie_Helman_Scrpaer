@@ -1,4 +1,4 @@
-# DH_Demo
+# Diphie_Helman_Scrpaer
 
 Diphie Helman Algorithm for generating symetric key from an asymetric key.
 
